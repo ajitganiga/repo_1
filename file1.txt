@@ -1,2 +1,2 @@
 this is file1 text
-file changed
+file changed in line2
